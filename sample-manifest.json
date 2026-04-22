@@ -1,12 +1,12 @@
 {
-  "export_job_id": "6151f982-3338-4898-b9b8-8cb36c3444e4",
+  "export_job_id": "95c35b65-d890-465a-948b-57312af6ba8a",
   "id_short": 722896,
-  "published_at": "2026-04-18T19:45:28Z",
+  "published_at": "2026-04-22T07:55:47Z",
   "repo_name": "top-50-restaurant-category-dominators-in-texas-us-sample-722896",
   "sample_asset_name": "beamstation_722896_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/722896/beamstation_722896_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 5,
-  "sample_sha256": "56e1536254584cc93a2b4bd07431240ff171d06f532868e1eb3d6569d5f264c2",
-  "sample_size_bytes": 38129,
-  "total_records": 50
+  "sample_records": 7,
+  "sample_sha256": "0170b1258b87c52b89fa4d5aed8ef36b1190ce2bc940d5a41d56e8ddb09699cb",
+  "sample_size_bytes": 44726,
+  "total_records": 76
 }
